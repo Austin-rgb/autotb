@@ -1,2 +1,3 @@
 ## Autotb in linux
-here are autotb executables forb linux systems 
+### Installation 
+Download the executable [here](https://github.com/Austin-rgb/autotb/releases/download/linux-25.4.1-ubuntu/tl_worker)
