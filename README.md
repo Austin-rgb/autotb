@@ -5,7 +5,7 @@ Autotb is for automating common tasks on timebucks.com
 If you have not joined yet click [here](https://timebucks.com/?refID=223919945)
 
 ### Installation 
-download the automation tool [here](https://github.com/Austin-rgb/autotb/releases/download/windows-25.4.3/tl_worker.exe)
+download the automation tool [here](https://github.com/Austin-rgb/autotb/releases/download/windows-25.4.4/tl_worker.exe)
 you might also need [ke_server](https://github.com/Austin-rgb/autotb/releases/download/windows-25.4.3/ke_server.exe), a keyboard event server used to control autotb via keyboard 
 
 ### Usage
