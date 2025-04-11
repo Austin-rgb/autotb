@@ -5,7 +5,7 @@ Autotb is for automating common tasks on timebucks.com
 If you have not joined yet click [here](https://timebucks.com/?refID=223919945)
 
 ### Installation 
-download the automation tool [here](https://github.com/Austin-rgb/autotb/releases/download/windows-25.4.4/tl_worker.exe)
+download the latest release [here](https://github.com/Austin-rgb/autotb/releases/download/v25.4.11/tl_worker.exe)
 you might also need [ke_server](https://github.com/Austin-rgb/autotb/releases/download/windows-25.4.3/ke_server.exe), a keyboard event server used to control autotb via keyboard 
 
 ### Usage
@@ -18,10 +18,22 @@ Note the browser and the profile id which you use to login
 For automating tasks that are initially locked by recapture, please remove the recapture first 
 
 #### Step 2
-Launch autotb software you installed, provide the browser and the profile where you logged in to timebucks.com 
+Launch autotb software you installed, 
+Provide the browser and the profile where you logged in to timebucks.com 
+The default browser is chrome 
 Autotb launches your browser and opens timebucks.com, 
 Autotb will search for tasks and start 
-Once the task is done, you'll be required to submit the proof, autotb automatically pastes the path to the proof on your clipboard so you just paste
-Once the you've submitted, press "n" and the process repeats until you finish all the tasks 
 
+#### Step 3
+Once the task is done, you'll be required to submit the proof,
+If you are using ke_server, the bot will ring a notification when done, else, it'll show a popup
+Click the "browse image", it opens a file dialogue 
+open your working directory 
+open the submissions directory 
+click the latest file, mostly it's just one file in submissions directory 
+ensure the timer in the title of the page is at least 1 minute then click "submit for approval"
+click OK in the alert that appears or simply press enter
+if you are using ke_server, just press "n" once the "earn" page is fully loaded, else, confirm the dialogue that popped up .
+Once the you've submitted, press "n" and the process repeats until you finish all the tasks 
+You can now repeat this as long as you like as you earn
 If this work helps you, don't leave without a star on the top right 
