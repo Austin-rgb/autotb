@@ -19,21 +19,23 @@ For automating tasks that are initially locked by recapture, please remove the r
 
 #### Step 2
 Launch autotb software you installed, 
-Provide the browser and the profile where you logged in to timebucks.com 
-The default browser is chrome 
+- Provide the browser and the profile where you logged in to timebucks.com 
+The default browser is chrome
+- Provide the working directory for the session
+
 Autotb launches your browser and opens timebucks.com, 
 Autotb will search for tasks and start 
 
 #### Step 3
 Once the task is done, you'll be required to submit the proof,
 If you are using ke_server, the bot will ring a notification when done, else, it'll show a popup
-Click the "browse image", it opens a file dialogue 
-open your working directory 
-open the submissions directory 
-click the latest file, mostly it's just one file in submissions directory 
-ensure the timer in the title of the page is at least 1 minute then click "submit for approval"
-click OK in the alert that appears or simply press enter
+- Click the "browse image", it opens a file dialogue 
+- open your working directory, if not automatically focused by the dialogue 
+- open the submissions directory 
+- click the latest file, mostly it's just one file in submissions directory 
+- ensure the timer in the title of the page is at least 1 minute then click "submit for approval"
+- click OK in the alert that appears or simply press enter
 if you are using ke_server, just press "n" once the "earn" page is fully loaded, else, confirm the dialogue that popped up .
-Once the you've submitted, press "n" and the process repeats until you finish all the tasks 
+The process seems long on description but usually takes less than 20 seconds. 
 You can now repeat this as long as you like as you earn
 If this work helps you, don't leave without a star on the top right 
