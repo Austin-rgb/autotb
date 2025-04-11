@@ -7,7 +7,7 @@ If you have not joined yet click [here](https://timebucks.com/?refID=223919945)
 ### Installation 
 - For windows users, download the latest release [here](https://github.com/Austin-rgb/autotb/releases/download/v25.4.11/tl_worker.exe)
 you might also need [ke_server](https://github.com/Austin-rgb/autotb/releases/download/windows-25.4.3/ke_server.exe), a keyboard event server used to control autotb via keyboard
-- For Linux users, 
+- For Linux users, download [autotb.deb](https://github.com/Austin-rgb/autotb/releases/download/v25.4.11/autotb.deb)
 
 ### Usage
 #### Browsers
