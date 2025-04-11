@@ -34,8 +34,10 @@ If you are using ke_server, the bot will ring a notification when done, else, it
 - open the submissions directory 
 - click the latest file, mostly it's just one file in submissions directory 
 - ensure the timer in the title of the page is at least 1 minute then click "submit for approval"
-- click OK in the alert that appears or simply press enter
-if you are using ke_server, just press "n" once the "earn" page is fully loaded, else, confirm the dialogue that popped up .
+- click OK in the alert that appears or simply press enter.
+
+
+If you are using ke_server, just press "n" once the "earn" page is fully loaded, else, confirm the dialogue that popped up .
 The process seems long on description but usually takes less than 20 seconds. 
 You can now repeat this as long as you like as you earn
 If this work helps you, don't leave without a star on the top right 
