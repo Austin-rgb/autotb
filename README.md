@@ -1,6 +1,8 @@
 ## Autotb 
-Are working on timebucks.com and you're frustrated by the working manually? 
-Autotb is for automating common tasks on timebucks.com 
+Do you need a platform where you can just work?
+[timebucks.com](https://timebucks.com/?refID=223919945) is a platform where you get paid for simple online tasks such watching videos and ads
+But working manually is usually so slow and cumbersome. 
+Autotb is software for automating common tasks on timebucks.com 
 
 If you have not joined yet click [here](https://timebucks.com/?refID=223919945)
 
