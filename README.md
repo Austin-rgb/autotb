@@ -1,10 +1,10 @@
 ## Autotb 
 Do you need a platform where you can just work?
-[timebucks.com](https://timebucks.com/?refID=223919945) is a platform where you get paid for simple online tasks such watching videos and ads
+[timebucks](https://timebucks.com/?refID=223919945) is a platform where you get paid for simple online tasks such watching videos and ads
 But working manually is usually so slow and cumbersome. 
 Autotb is software for automating common tasks on timebucks.com 
 
-If you have not joined yet click [here](https://timebucks.com/?refID=223919945)
+If you have not joined yet click [https://timebucks.com/?refID=223919945](https://timebucks.com/?refID=223919945)
 
 ### Installation 
 - For windows users, download the latest release [here](https://github.com/Austin-rgb/autotb/releases/download/v25.4.18/tl_worker.exe)
@@ -44,3 +44,6 @@ If you are using ke_server, just press "n" once the "earn" page is fully loaded,
 The process seems long on description but usually takes less than 20 seconds. 
 You can now repeat this as long as you like as you earn
 If this work helps you, don't leave without a star on the top right 
+
+### Note
+please register with this link [https://timebucks.com/?refID=223919945](https://timebucks.com/?refID=223919945) to be able to use autotb for free
