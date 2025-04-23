@@ -16,7 +16,7 @@ you might also need [ke_server](https://github.com/Austin-rgb/autotb/releases/do
 You can use any of (chrome, Firefox, safari, Edge and brave) but we recommend chrome version 133
 
 #### Step 1
-Register or login to [timebucks.com](https://timebucks.com/?refID=223919945)
+Register or login to [timebucks](https://timebucks.com/?refID=223919945)
 Note the browser and the profile id which you use to login
 For automating tasks that are initially locked by recapture, please remove the recapture first 
 
